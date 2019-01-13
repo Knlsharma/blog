@@ -1,4 +1,4 @@
-# Lanyon
+# Blog
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
@@ -122,13 +122,12 @@ Lanyon has two branches, but only one is used for active development.
 
 ## Author
 
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
+**Kunal Sharma**
+-[knlsharma](https://knlsharma.github.io)
 
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
+Open sourced under the [GPL license](LICENSE.md).
 
 <3
