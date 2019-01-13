@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # **Have You Ever Try Out Java Visual VM tool (SE-8) Cool Features!**
 
@@ -26,8 +26,3 @@ Some FAQ Links,
 [Visual_vm](http://visualvm.java.net/api-faq.html)
 
 [docs.oracle.java SE](https://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/intro.htm)
-
-
-
-
- 
