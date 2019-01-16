@@ -21,7 +21,7 @@ Java VisualVM was first bundled with the Java platform, Standard Edition on (Jav
 
 5. ![# Step 5]({{site.baseurl}}/_posts/5.png)
 
-Some FAQ Links,
+**Some FAQ Links**
 
 [Visual_vm](http://visualvm.java.net/api-faq.html),
 [docs.oracle.java SE](https://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/intro.htm).
