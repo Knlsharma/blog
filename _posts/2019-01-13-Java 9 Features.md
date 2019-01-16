@@ -17,17 +17,17 @@ You may have heard about Java 9’s module system, but there's even more to this
 
      In Java 7, try-with-resources has a limitation that requires _resource to declare locally within its block._
 
-4. **Anonymous Classes Improvement**: Java 9 introduced a new f**eature that allows us to use diamond operator with        anonymous classes**. Using the diamond with anonymous classes was**not allowed in Java 7.**
+4. **Anonymous Classes Improvement**: Java 9 introduced a new f**eature that allows us to use diamond operator with        anonymous classes**. Using the diamond with anonymous classes was**not allowed in Java 7**.
 
      In Java 9, as long as the inferred type is denotable, **we can use the diamond operator** when we create an          _anonymous_ inner class.
 
 5. **Java @SafeVarargs Annotation**: It is anannotation which applies on a method or constructor that takes varargs        parameters. It is used to ensure that the method does not perform _unsafe operations on its varargs parameters._
 
-     It was included in __**Java 7 and can only be applied on Final, methods Static, methods Constructors**__.
+     It was included in **Java 7 and can only be applied on Final, methods Static, methods Constructors**.
 
 6. **Java Collection Factory Methods**: _Factory methods are special type of static methods that are used to create        unmodifiable instances of collections_. It means we can **use these methods to create list**, set and map of          small number of elements.
 
-     It is unmodifiable, so adding new element will throw **java.lang.UnsupportedOperationException**
+     It is unmodifiable, so adding new element will throw **java.lang.UnsupportedOperationException**.
 
 7. **Java Process API Improvement**: Java has improved its **process API in Java 9 version** that helps to manage and      control _operating system processes_.
 
@@ -37,7 +37,7 @@ You may have heard about Java 9’s module system, but there's even more to this
 
      In Java 9, a new **version-string scheme is introduced**.
 
-9. **JShell**: The Java Shell (REPL):*It is an interactive Java Shell tool, it allows us to execute Java code from                  the shell and shows output immediately. **JShell is a REPL (Read Evaluate Print Loop) tool** and run                  from the command line. It is benificial, if we want to test our business logic and get result                        immediately*.
+9. **JShell** the Java Shell (REPL):*It is an interactive Java Shell tool, it allows us to execute Java code from                  the shell and shows output immediately. **JShell is a REPL (Read Evaluate Print Loop) tool** and run                  from the command line. It is benificial, if we want to test our business logic and get result                        immediately*.
 
 10. **BeanInfo Annotations**: The _@beaninfo_ Javadoc tag is replaced with the annotation types _JavaBean,                                         BeanProperty_, and _SwingContainer_.
 
