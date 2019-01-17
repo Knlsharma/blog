@@ -13,15 +13,15 @@ Various optional tools, including Java VisualVM, are provided with **Sun’s dis
 
 Java VisualVM was first bundled with the Java platform, Standard Edition on (Java SE) in JDK version 6, update 7 now it is also available in Java 8 you can find it in the bin folder of JDK.
 
-1. ![# Step 1]({{site.baseurl}}/_posts/1.png)
+1. !![sdd]({{site.baseurl}}/_posts/2.png)
 
-2. ![# Step 2]({{site.baseurl}}/_posts/2.png)
+2. 
 
-3. ![# Step 3]({{site.baseurl}}/_posts/3.png)
+3. 
 
-4. ![# Step 4]({{site.baseurl}}/_posts/4.png)
+4. 
 
-5. ![# Step 5]({{site.baseurl}}/_posts/5.png)
+5. 
 
 Furthermore, developers can extend Java VisualVM to add new functionality by creating and **posting plugins to the tool’s built-in update center**.
 
