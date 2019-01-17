@@ -3,20 +3,19 @@ layout: page
 title: About
 published: true
 ---
+![Unsplash]({{site.unsplash}}/joshua-earle-1794-unsplash.jpg)
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+The blog aims for sharing knowledge new technology and programming related stuff especially for Java programmers, developers to develop and to contribute. As a reader, it helps you to keep updated in this technological era.
 
-![jjk]({{site.baseurl}}/joshua-earle-1794-unsplash.jpg)
+![knl]({{site.baseurl}}/kunal blog.jpg)
+
+This is me above.
+
+I'm a third year undergraduate student at JSS Academy of Technical Education, Noida. I am a former Student Software Developer under Smart India Hackathon-2018. I am an avid Programmer, Developer and Open Source Enthusiast,a full-time foodie.
+
+I've  my own website [https://knlsharma.github.io/](https://knlsharma.github.io/ "Kunal Sharma")
 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
