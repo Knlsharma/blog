@@ -14,7 +14,7 @@ This is me above.
 
 I'm a third year undergraduate student at JSS Academy of Technical Education, Noida. I am a former Student Software Developer under Smart India Hackathon-2018. I am an avid Programmer, Developer and Open Source Enthusiast,a full-time foodie.
 
-I've  my own website [Kunal Sharma](https://knlsharma.github.io/ "Kunal Sharma").To contact me, please email [@knlsharma](knlsharma678@gmail.com).
+I've  my own website [Kunal Sharma](https://knlsharma.github.io/ "Kunal Sharma").To contact me, please email [knlsharma678@gmail.com](knlsharma678@gmail.com).
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
