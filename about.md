@@ -6,13 +6,7 @@ published: true
 
 ![Unsplash]({{site.unsplash}}/joshua-earle-1794-unsplash.jpg)
 
-
-
-
-
-
-
-The blog aims for sharing knowledge new technology and programming related stuff especially for Java programmers, developers to develop and to contribute. As a reader, it helps you to keep updated in this technological era.
+    The blog aims for sharing knowledge new technology and programming related stuff especially for Java programmers, developers to develop and to contribute. As a reader, it helps you to keep updated in this technological era.
 
 ![knl]({{site.baseurl}}/kunal blog.jpg)
 
