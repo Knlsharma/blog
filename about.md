@@ -3,7 +3,7 @@ layout: page
 title: About
 published: true
 ---
-The blog aims for sharing knowledge new technology and programming related stuff especially for Java programmers, developers to develop and to contribute more. As a reader, it helps you to keep updated in this technological era.
+The Techblog aims for sharing knowledge new technology and programming related stuff especially for Java programmers, developers to develop and to contribute more. As a reader, it helps you to keep updated in this technological era.
 
 ![knl]({{site.baseurl}}/kunal blog.jpg)
 
