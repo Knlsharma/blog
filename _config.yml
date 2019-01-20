@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Techblog
 tagline:             'For Java Learner'
-description:         'Welcome to the blog!. If you checked out the “ About.” page then you know my name is Kunal Sharma. Looking at the front page, you probably saw that this is a TProgramming and Technological blog.Glad you came by. I wanted to welcome you and let you know I appreciate you spending time here at the blog very much.  Everyone is so busy and life moves pretty fast,  so I really do appreciate you taking time out of your busy day to check out my blog!..'
+description:         'Welcome to the blog!. If you checked out the “ About.” page then you know my name is Kunal Sharma. Looking at the front page, you probably saw that this is a Programming and Technological blog.Glad you came by. I wanted to welcome you and let you know I appreciate you spending time here at the blog very much.  Everyone is so busy and life moves pretty fast,  so I really do appreciate you taking time out of your busy day to check out my blog!..'
 url:                 https://knlsharma.github.io
 baseurl:             '/blog'
 paginate:            5
