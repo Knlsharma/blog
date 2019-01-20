@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Using GitHub for issue tracking
 
@@ -16,6 +16,3 @@ The milestone feature is great for two reasons: my own sanity and transparency f
 ## Driving responsibility
 
 It’s been a blast to talk through ideas, push back on others, and help people solve problems. I love every moment of it.If you have the chance–even if you’re working in a closed, private repo–give the issue tracking and milestone features of GitHub a go. You’ll be thoroughly impressed and should see a noticeable increase in productivity.
-
-
-
