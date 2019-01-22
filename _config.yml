@@ -6,7 +6,7 @@ markdown:
   redcarpet
   
 highlighter:	
-  pygments  
+  rouge  
 
 permalink:           pretty
 # relative_permalinks: true
