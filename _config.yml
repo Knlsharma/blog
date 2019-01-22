@@ -4,6 +4,9 @@
 # Dependencies
 markdown:
   redcarpet
+  
+highlighter:	
+  pygments  
 
 permalink:           pretty
 # relative_permalinks: true
