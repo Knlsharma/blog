@@ -3,9 +3,7 @@ published: true
 ---
 ## Welcome To The New Revolutionary Era of API's !
 
-![Image 2.png](https://github.com/Knlsharma/blog/blob/gh-pages/_posts/1_qpyJSVVPkd5c6ItMmivnYg.png)
-
-![GQL](https://github.com/Knlsharma/blog/blob/gh-pages/_posts/download.jpg)
+> First of all, I want to clear that GraphQL is not any database most of the people think!
 
 Choosing **GraphQL** gives you easy to design and amazing to consume API. It also rewards you with effortless consistency between the APIs. By its nature, GraphQL is contract-driven and comes with introspection, which is something REST lacks out-of-the-box.
 
