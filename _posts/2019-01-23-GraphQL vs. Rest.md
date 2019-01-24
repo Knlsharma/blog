@@ -5,6 +5,8 @@ published: true
 
 ![Image 2.png](https://github.com/Knlsharma/blog/blob/gh-pages/_posts/1_qpyJSVVPkd5c6ItMmivnYg.png)
 
+![GQL](https://github.com/Knlsharma/blog/blob/gh-pages/_posts/download.jpg)
+
 Choosing **GraphQL** gives you easy to design and amazing to consume API. It also rewards you with effortless consistency between the APIs. By its nature, GraphQL is contract-driven and comes with introspection, which is something REST lacks out-of-the-box.
 
 The cost you pay is that your clients have to read the docs (GraphQL schema) at the development time and hardcode the affordances (queries and mutations). This hardcoding of the development-time knowledge leads to clients tightly coupled to the server, but the same also applies to so-called-REST APIs.
