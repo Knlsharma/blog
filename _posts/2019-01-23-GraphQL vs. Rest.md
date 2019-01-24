@@ -24,6 +24,5 @@ Using GraphQL also leaves you vulnerable to what HTTP protocol and the whole int
 
 **- Different:** In REST, the shape and size of the resource is determined by the server. In GraphQL, the server declares what resources are available, and the client asks for what it needs at the time. 
 
-![Image 2.png](https://github.com/Knlsharma/blog/blob/gh-pages/_posts/1_qpyJSVVPkd5c6ItMmivnYg.png)
 
 
