@@ -1,3 +1,8 @@
+---
+layout: page
+title: Contact
+published: true
+---
 ## Leave a Reply
 
 Your email address will not be published.Required fields are marked *
