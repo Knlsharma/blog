@@ -3,9 +3,8 @@ layout: default
 title: Contact
 published: true
 ---
-## Leave a Reply
-
 Your email address will not be published.Required fields are marked *
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
