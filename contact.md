@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Contact
 published: true
 ---
 ## Leave a Reply
