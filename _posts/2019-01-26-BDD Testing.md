@@ -12,7 +12,7 @@ BDT is the best choice when you want to show your business point of view and the
 <sub>BDD-cycle.</sub>
 </center>
 
-# Why Behavior Driven Testing Originated
+### Why Behavior Driven Testing Originated
 
 One of the common downsides when using these frameworks is that it is hard for non-technical people like business analysts and management people to read and understand the test cases, but behavior driven testing can handle it. It has helped to fill the communication gap by writing the test cases in natural language.The scenarios are written to build up a clear understanding of the desired behavior through discussion with stakeholders.
 
