@@ -6,7 +6,7 @@ published: true
 > First of all, I want to clear that GraphQL is not any database most of the people think!
 
 <center>
-<img src="/assets/images/GraphQL.jpg" alt="Hey">
+<img src="{{site.baseurl}}/assets/images/GraphQL.jpg" alt="Hey">
 <sub><sub>GQL.</sub></sub>
 </center>
 
