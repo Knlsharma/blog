@@ -6,8 +6,8 @@ published: true
 > First of all, I want to clear that GraphQL is not any database most of the people think!
 
 <center>
-<img src="{{site.baseurl}}/assets/images/GraphQL.jpg" alt="Hey">
-<sub><sub>GQL.</sub></sub>
+<img src="{{site.baseurl}}/assets/images/GraphQL.jpg" alt="GQL">
+<sub>GraphQL.</sub>
 </center>
 
 Choosing **GraphQL** gives you easy to design and amazing to consume API. It also rewards you with effortless consistency between the APIs. By its nature, GraphQL is contract-driven and comes with introspection, which is something REST lacks out-of-the-box.
