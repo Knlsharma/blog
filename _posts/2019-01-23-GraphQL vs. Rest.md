@@ -6,7 +6,7 @@ published: true
 > First of all, I want to clear that GraphQL is not any database most of the people think!
 
 <center>
-![image](/assets/images/GraphQL.jpg)
+[](/assets/images/GraphQL.jpg)
 <sub><sub>GQL.</sub></sub>
 </center>
 
