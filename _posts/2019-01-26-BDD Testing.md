@@ -9,7 +9,7 @@ BDT is the best choice when you want to show your business point of view and the
 
 <center>
 <img src="{{site.baseurl}}/assets/images/BDD_cycle.jpeg" alt="BDD-cycle">
-<sub>GraphQL.</sub>
+<sub>BDD-cycle.</sub>
 </center>
 
 # Why Behavior Driven Testing Originated
