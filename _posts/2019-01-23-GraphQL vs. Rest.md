@@ -5,6 +5,11 @@ published: true
 
 > First of all, I want to clear that GraphQL is not any database most of the people think!
 
+<center>
+![image](/assets/images/GraphQL.jpg)
+<sub><sub>GQL.</sub></sub>
+</center>
+
 Choosing **GraphQL** gives you easy to design and amazing to consume API. It also rewards you with effortless consistency between the APIs. By its nature, GraphQL is contract-driven and comes with introspection, which is something REST lacks out-of-the-box.
 
 The cost you pay is that your clients have to read the docs (GraphQL schema) at the development time and hardcode the affordances (queries and mutations). This hardcoding of the development-time knowledge leads to clients tightly coupled to the server, but the same also applies to so-called-REST APIs.
@@ -22,7 +27,4 @@ Using GraphQL also leaves you vulnerable to what HTTP protocol and the whole int
 
 **- Different:** In REST, the endpoint you call is the identity of that object. In GraphQL, the identity is separate from how you fetch it.
 
-**- Different:** In REST, the shape and size of the resource is determined by the server. In GraphQL, the server declares what resources are available, and the client asks for what it needs at the time. 
-
-
-
+**- Different:** In REST, the shape and size of the resource is determined by the server. In GraphQL, the server declares what resources are available, and the client asks for what it needs at the time.
