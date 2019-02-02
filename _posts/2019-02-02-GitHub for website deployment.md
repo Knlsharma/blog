@@ -3,7 +3,7 @@ published: true
 ---
 <center>
 <img src="{{site.baseurl}}/assets/images/WORDPRESS.jpg" alt="">
-<sub>BDD-cycle.</sub>
+<sub></sub>
 </center>
 
 
@@ -12,8 +12,7 @@ Many moons ago, MediaTemple’s databases running WordPress were compromised. Wo
 Fast forward to today, and enter GitHub.
 
 <center>
-<img src="{{site.baseurl}}/assets/images/git.jpg" alt="">
-<sub>github.</sub>
+<img src="{{site.baseurl}}/assets/images/git.jpg" alt="github">
 </center>
 
 <a href="https://github.com/">Github</a> is an amazing service. At first, I just started using it freely to track awesome libraries of code, but after awhile, I leveled up and ponied up the cash for a paid account. With private repos, my site deployment–and in this case, redeployment–is unbelievably easy and an amazing tool to have.
