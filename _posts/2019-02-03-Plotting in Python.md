@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Using Matplotlib and Seaborn
 
