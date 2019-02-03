@@ -39,6 +39,8 @@ published: true
 
 <a href="https://matplotlib.org">matplotlib</a> , <a href="https://www.analyticsvidhya.com/blog/2015/05/data-visualization-resource">analyticsvidhya</a> ,<a href="https://www.analyticsvidhya.com/blog/2015/05/data-visualization-python/">data-visualization</a> 
 
+Thanks for reading it.
+
  
  
 
