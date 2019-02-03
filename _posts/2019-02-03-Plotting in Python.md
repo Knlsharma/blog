@@ -11,25 +11,25 @@ published: true
 
 ## Various Types of Plots
 
-   1. Histogram :The hist() function automatically generates histograms and returns the bin counts or probabilities.
+   **1. Histogram:** The hist() function automatically generates histograms and returns the bin counts or probabilities.
 <center>
 <img src="{{site.baseurl}}/assets/images/Histogram.png" alt="GQL">
 <sub></sub>
 </center>
 
-   2. Pie charts :the pie() function allows you to create pie charts. Optional features include auto-labeling the percentage of area, exploding one or more wedges from the center of the pie, and a shadow effect. Take a close look at the attached code, which generates this figure in just a few lines of code.
+   **2. Pie charts:** the pie() function allows you to create pie charts. Optional features include auto-labeling the percentage of area, exploding one or more wedges from the center of the pie, and a shadow effect.
  <center>
 <img src="{{site.baseurl}}/assets/images/Bar .png" alt="GQL">
 <sub></sub>
 </center>
  
-   3. Bar charts: Use the bar() function to make bar charts, which includes customizations such as error bars.
+ **3. Bar charts:** Use the bar() function to make bar charts, which includes customizations such as error bars.
 <center>
 <img src="{{site.baseurl}}/assets/images/pie.png" alt="GQL">
 <sub></sub>
 </center>
 
-   4. Scatter plots: the scatter() function makes a scatter plot with (optional) size and color arguments. This example plots changes in Google's stock price, with marker sizes reflecting the trading volume and colors varying with time. Here, the alpha attribute is used to make semitransparent circle markers.
+   **4. Scatter plots:** the scatter() function makes a scatter plot with (optional) size and color arguments. This example plots changes in Google's stock price, with marker sizes reflecting the trading volume and colors varying with time. Here, the alpha attribute is used to make semitransparent circle markers.
 <center>
 <img src="{{site.baseurl}}/assets/images/scatter.png" alt="GQL">
 <sub></sub>
@@ -41,8 +41,3 @@ published: true
 
 Thanks for reading it.
 
- 
- 
-
-
-.
