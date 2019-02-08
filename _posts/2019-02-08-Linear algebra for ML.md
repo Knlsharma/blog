@@ -12,7 +12,7 @@ _This is the 1st post of blog post series â€˜Deep Learning and Machine Learningâ
 <sub>Different Classifications (site:One Fourth Labs)</sub>
 </center>
 
-we will look at Linear Algebra definition, and how it relates to vectors and matrices. Then we look through what vectors and matrices are and how to work with them and its related *classifiction*.
+We will look at Linear Algebra definition, and how it relates to vectors and matrices. Then we look through what vectors and matrices are and how to work with them and its related *classifiction*.
 
 We would learn about the interrelation between Linear Algebra and Machine Learning. 
 
