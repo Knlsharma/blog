@@ -31,14 +31,15 @@ Machine Learning addresses the question of how to build computers that improve a
 
 The recent development in Machine Learning has been driven both by the development of new learning algorithms and theory and by the ongoing explosion in the availability of online data and low-cost computation.
 
-The adoption of data-intensive machine-learning methods can be found throughout science, technology, and commerce, leading to more evidence-based decision-making across many walks of life, including healthcare, manufacturing, education, financial modelling, policing, and marketing.
-
 <center>
 <img src="{{site.baseurl}}/assets/images/ml.jpg" alt="ml">
 <sub>site: unsplash</sub>
 </center>
 
-_**2nd post** will be out soon.._
+The adoption of data-intensive machine-learning methods can be found throughout science, technology, and commerce, leading to more evidence-based decision-making across many walks of life, including healthcare, manufacturing, education, financial modelling, policing, and marketing.
+
+
+_**2nd post** will be out soon.._ *(Keep Scrolling)*.
 
 _Thank you for reading my post._
 
