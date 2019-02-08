@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 _This is the 1st post of blog post series ‘Deep Learning and Machine Learning’._
 
@@ -39,7 +39,3 @@ The adoption of data-intensive machine-learning methods can be found throughout 
 </center>
 
 _Thank you for reading my post._
-
-
-
-
