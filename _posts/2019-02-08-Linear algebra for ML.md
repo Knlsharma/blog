@@ -20,7 +20,7 @@ We would learn about the interrelation between Linear Algebra and Machine Learni
 
 <center>
 <img src="{{site.baseurl}}/assets/images/istock.jpg" alt="istock">
-<sub>site:unsplash</sub>
+<sub>site:istock</sub>
 </center>
 
 Linear Algebra is a sub-field of mathematics concerned with vectors, matrices, and linear transforms. It is a key foundation to the field of Machine Learning, from notations used to describe the operation of algorithms to the implementation of algorithms in code.
