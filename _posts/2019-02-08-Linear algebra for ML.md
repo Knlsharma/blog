@@ -38,4 +38,7 @@ The adoption of data-intensive machine-learning methods can be found throughout 
 <sub>site:unsplash</sub>
 </center>
 
+_**2nd post** will be out soon.._
+
 _Thank you for reading my post._
+
