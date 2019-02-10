@@ -59,4 +59,8 @@ Your email address will not be published.Required fields are marked *
 </form>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
+<span class="site-footer-owner"><a href="/blog/">Blogs by Kunal</a> is maintained by <a href="https://knlsharma.github.io/">Kunal Sharma</a>.<style>.heart{color:#e25555;}</style>
+      <br> Designed and Developed by Kunal in <span class="heart">❤</span> with <span class="coffee">☕</span> and <span class="code"></></span>.
+  
 <!--End mc_embed_signup-->
