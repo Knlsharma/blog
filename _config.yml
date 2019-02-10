@@ -28,3 +28,6 @@ author:
 
 # Custom vars
 version:             3.8.5
+
+gems: 
+      - jekyll-sitemap
