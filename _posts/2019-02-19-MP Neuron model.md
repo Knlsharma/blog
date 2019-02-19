@@ -45,7 +45,7 @@ Accuracy is given by the standard matrix of the division of the number of right 
 
 The MP Neuron basically helps to find a line that separates the positive value from the negative ones.
 
-The disadvantages of MP Neuron are-
+### The disadvantages of MP Neuron are-
 
 1. Boolean input and output.
 2. Fixed slope
