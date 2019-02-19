@@ -39,7 +39,4 @@ The recent development in Machine Learning has been driven both by the developme
 The adoption of data-intensive machine-learning methods can be found throughout science, technology, and commerce, leading to more evidence-based decision-making across many walks of life, including healthcare, manufacturing, education, financial modelling, policing, and marketing.
 
 
-_**2nd post** will be out soon.._ *(Keep Scrolling)*.
-
-_Thank you for reading my post._
-
+_Thank you for reading my post._ (Keep Scrolling)*.
