@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 _This is the 1st post of blog post series ‘Understanding Natural Language Processing’._
 
@@ -49,4 +49,3 @@ the goal of terminology extraction is to automatically extract relevant terms fr
 2nd post will be out soon.. Keep Scrolling.
 
 Thank you for reading my post.
-
