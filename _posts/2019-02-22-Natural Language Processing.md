@@ -25,7 +25,7 @@ Though natural language processing tasks are closely intertwined, they are frequ
 </center>
 
 
-## Syntax
+### Syntax
 In linguistics, syntax is the set of rules, principles, and processes that govern the structure of sentences (sentence structure) in a given language, usually including word order. The term syntax is also used to refer to the study of such principles and processes.
 
 **Grammar induction**
