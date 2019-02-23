@@ -18,8 +18,9 @@ A Short Intro, I'm a third-year undergraduate student at JSS Academy of Technica
 I've my own website [Kunal Sharma](https://knlsharma.github.io/ "Kunal Sharma").To contact me, please email @[knlsharma678@gmail.com]("knlsharma678@gmail.com").
 -->
 Thanks for reading!
+
+***
     
   <centre>
   <span class="site-footer-owner"><a href="/blog/">Blogs by Kunal</a> is maintained by <a href="https://knlsharma.github.io/">Kunal Sharma</a>.<style>.heart{color:#e25555;}</style>
       <br> Designed and Developed by Kunal in <span class="heart">❤</span> with <span class="coffee">☕</span> and <span class="code"></></span>.
-  
