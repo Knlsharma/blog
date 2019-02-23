@@ -3,7 +3,8 @@ layout: default
 title: Contact
 published: true
 ---
-Your email address will not be published.Required fields are marked *
+Your email address will not be published.Required fields are marked 
+ 
 ***
 
 <!-- Begin Mailchimp Signup Form -->
