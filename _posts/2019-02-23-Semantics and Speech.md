@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 _This is the 2nd and Last post of blog post series ‘Understanding Natural Language Processing’._
 
@@ -48,5 +48,3 @@ _This is the 2nd and Last post of blog post series ‘Understanding Natural Lang
 **Text-to-speech** given a text, transform those _units_ and _produce a spoken representation_. Text-to-speech can be used to aid the visually impaired.
 
 Thank you for reading my post.
-
-
