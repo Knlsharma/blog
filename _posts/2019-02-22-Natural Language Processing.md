@@ -46,6 +46,6 @@ given a chunk of text, find the sentence boundaries. Sentence boundaries are oft
 **Terminology extraction**
 the goal of terminology extraction is to automatically extract relevant terms from a given corpus.
 
-2nd post will be out soon.. Keep Scrolling.
+[2nd Post link](https://knlsharma.github.io/blog/2019/02/23/Semantics-and-Speech/)
 
-Thank you for reading my post.
+Thank you for reading my post..Keep Scrolling.
