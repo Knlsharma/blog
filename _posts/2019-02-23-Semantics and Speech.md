@@ -37,7 +37,7 @@ _This is the 2nd and Last post of blog post series ‘Understanding Natural Lang
 
 > the expression of or the ability to express thoughts and feelings by articulate sounds.
                                         or
-               a formal address or discourse delivered to an audience.
+  a formal address or discourse delivered to an audience.
                
 ## Associated Tasks
 
@@ -47,4 +47,4 @@ _This is the 2nd and Last post of blog post series ‘Understanding Natural Lang
 
 **Text-to-speech** given a text, transform those _units_ and _produce a spoken representation_. Text-to-speech can be used to aid the visually impaired.
 
-Thank you for reading my post.
+_Thank you for reading my post.. Keep Scrolling_
