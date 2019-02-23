@@ -41,7 +41,7 @@ _This is the 2nd and Last post of blog post series ‘Understanding Natural Lang
                
 ## Associated Tasks
 
-**Speech recognition** given a sound clip of a person or people speaking, determine the textual representation of the speech. This is the opposite of _text to speech_ and is one of the extremely difficult problems colloquially termed "AI-complete". In natural speech there are hardly any pauses between successive words, and thus s_peech segmentation is a necessary subtask of speech recognition_ (see below). Note also that in most spoken languages, the sounds representing successive letters blend into each other in a process termed _coarticulation_.
+**Speech recognition** given a sound clip of a person or people speaking, determine the textual representation of the speech. This is the opposite of _text to speech_ and is one of the extremely difficult problems colloquially termed "AI-complete". In natural speech there are hardly any pauses between successive words, and thus _speech segmentation is a necessary subtask of speech recognition_ (see below). Note also that in most spoken languages, the sounds representing successive letters blend into each other in a process termed _coarticulation_.
 
 **Speech segmentation** given a sound clip of a person or people speaking, s_eparate it into words_. A subtask of _speech recognition_ and typically grouped with it.
 
