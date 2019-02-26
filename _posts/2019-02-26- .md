@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 <center>
 <img src="{{site.baseurl}}/assets/images/jj.png" alt="GQL">
