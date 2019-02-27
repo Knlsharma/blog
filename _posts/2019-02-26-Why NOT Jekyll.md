@@ -13,7 +13,7 @@ published: true
 
 # Why Jekyll?
 It's not easy to say but its true 
-> _Scroring _100 out of 100_ on Google PageSpeedInsights is not easy. But there are ways where you can make sure your site score a perfect century._ 
+> Scroring _100 out of 100_ on Google PageSpeedInsights is not easy. But there are ways where you can make sure your site score a perfect century. 
 
 # Is it easy to learn?
 _Yes it's easy is to learn For resources try this_ <a href="https://jekyllrb.com/docs/">Learn more about Jekyll →</a>
