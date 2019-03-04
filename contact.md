@@ -64,7 +64,13 @@ Your email address will not be published.Required fields are marked
 
 ***
 
-<span class="site-footer-owner"><a href="/blog/">Blogs by Kunal</a> is maintained by <a href="https://knlsharma.github.io/">Kunal Sharma</a>.<style>.heart{color:#e25555;}</style>
-      <br> Designed and Developed by Kunal in <span class="heart">❤</span> with <span class="coffee">☕</span> and <span class="code"></></span>.
+<p style="text-align:center;"><a href="/blog/">Blogs by Kunal</a> is maintained by <a href="https://knlsharma.github.io/">Kunal Sharma</a>.<style>.heart{color:#e25555;}</style>
+      <br> Designed and Developed by Kunal in <span class="heart">❤</span> with <span class="coffee">☕</span> and <span class="code"></></span>. </p>
+  
+  
+ <!-- <br>
+  <p style="text-align:center;"><a href="/blog/">Blogs by Kunal</a> is maintained by <a href="https://knlsharma.github.io/">Kunal Sharma</a>.<br><style>.heart{color:#e25555;}</style>
+  Designed and Developed by Kunal in <span class="heart">❤</span> with <span class="coffee">☕</span> and <span class="fas fa-code"></></span> </p>.
+  
   
 <!--End mc_embed_signup-->
