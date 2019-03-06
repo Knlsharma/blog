@@ -30,3 +30,5 @@ But **“how to use this data?”** herein lies the pivotal question. How is thi
 **Actionable Insights – Data Prototyping:** Data Analysis results in production of actionable insights. These insights are used to make better decisions, development of data applications and data driven. Dashboards, visualizations, reports, sheets and applications are used to get a descriptive view of these insights. The following infographics shows some examples of the real life business problems involving data science and its impact. 
 
 **Sources:** [Wiki](https://en.wikipedia.org/wiki/Data_science) ,[SB](http://www.shivambansal.com/index.html).
+
+_Thank you for reading my post.. Keep Scrolling_
