@@ -1,9 +1,14 @@
 ---
-published: false
+published: true
 ---
 # Understanding the growing importance and meaning of data science
 
 > “Data is the new oil” — anonymous 
+
+<center>
+<img src="{{site.baseurl}}/assets/images/Screenshot (724).png" alt="GQL">
+<sub> Showing Various Fields.</sub>
+</center>
 
 **Data** is everywhere around us – More than 200 million users on twitter, share content, videos and photos every day (Social Media Data). 500 Million smartphones are used for making calls, texts messaging every second (Smartphone User Data, Calls Data and Message Text Data). 10 thousand airplanes are always off the ground in the sky (Aviation Data). More than 10 Million bank transactions are carried out daily (Bank Data). 
 
@@ -23,6 +28,6 @@ But **“how to use this data?”** herein lies the pivotal question. How is thi
 
 **Actionable Insights – Data Prototyping:** Data Analysis results in production of actionable insights. These insights are used to make better decisions, development of data applications and data driven. Dashboards, visualizations, reports, sheets and applications are used to get a descriptive view of these insights. The following infographics shows some examples of the real life business problems involving data science and its impact. 
 
-**Sources:** [Wiki](https://en.wikipedia.org/wiki/Data_science) , 
+**Sources:** [Wiki](https://en.wikipedia.org/wiki/Data_science) ,[SB](http://www.shivambansal.com/index.html).
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
