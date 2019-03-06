@@ -17,7 +17,7 @@ According to a recent research, IBM suggested that **90 percent of the data** in
 
 The volume of this increasing data can not be measured and it’s growing every second. This immense amount of data is neither a garbage nor a waste, but it’s a diamond mine for various organizations, industries and communities. This data acts as the fuel for driving the boat of effective decision making ! 
 
-But **“how to use this data?”** herein lies the pivotal question. How is this data exploited using technology and algorithms to make sense out of a massive data pile ? There is a single answer to these questions – Data Science. 
+But **“how to use this data?”** herein lies the pivotal question. How is this data exploited using technology and algorithms to make sense out of a massive data pile ? There is a single answer to these questions – ***Data Science***. 
 
 **Data Science is a practice of connecting the dots between world of business and world of data. It is an unconventional art of converting the unstructured data to linked, cleaned and structured sets of productive information and fruitful knowledge. This information in-turn enables effective decision making, smart planning and intelligent applications.** The process of data science includes finding the patterns, identifying the insights and prototyping them. The major components which makes it a complete end to end process are: 
 
