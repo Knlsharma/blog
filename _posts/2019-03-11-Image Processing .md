@@ -17,7 +17,7 @@ Digital Image Processing means processing digital image by means of a digital co
 <br> 
 ## Types of an image
 
-**1. Binary Image** as its name suggests, contain only two pixel elements **i.e 0 & 1,where 0 refers to black and 1 refers to white.** This image is also known as_**Monochrome.**_
+**1. Binary Image** as its name suggests, contain only two pixel elements **i.e 0 & 1,where 0 refers to black and 1 refers to white.** This image is also known as**Monochrome.**
 
 **2. Black and White Image** which consist of only**_black and white color is called Black and White Image._**
 
@@ -27,9 +27,9 @@ Digital Image Processing means processing digital image by means of a digital co
 
 A **16 bit format** is actually divided into **three further** formats which are **Red**, **Green** and **Blue**. That famous **RGB** format.
 
-The remaining tasks will be in 2nd posts
+The remaining tasks will be in 2nd post out soon.
 
 _Thank you for reading my post._ (Keep Scrolling)*.
 
 
-### Sources:[Web](https://www.sciencedirect.com/topics/neuroscience/image-processing) , [Wiki](https://en.wikipedia.org/wiki/Digital_image_processing).
+**Sources:** [Web](https://www.sciencedirect.com/topics/neuroscience/image-processing) , [Wiki](https://en.wikipedia.org/wiki/Digital_image_processing).
