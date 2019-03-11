@@ -4,7 +4,7 @@ _This is the 1st post of blog post series ‘Image Processing’._
 
 Digital Image Processing means processing digital image by means of a digital computer. We can also say that it is a use of computer algorithms, in order to get enhanced image either to extract some useful information.
 
-> Technical Def " An _image_ is defined as a two-dimensional function,F(x,y), where x and y are _spatial coordinates_, and the a_mplitude of F_ at any pair of coordinates (x,y) is called the intensity of that image at that point. When x,y, and amplitude values of F are finite, we call it a **_digital image_**. "
+> An _image_ is defined as a two-dimensional function,F(x,y), where x and y are _spatial coordinates_, and the a_mplitude of F_ at any pair of coordinates (x,y) is called the intensity of that image at that point. When x,y, and amplitude values of F are finite, we call it a **_digital image_**.
 
 <center>
 <img src="{{site.baseurl}}/assets/images/image.jpg" alt="GQL">
@@ -28,4 +28,4 @@ The remaining tasks will be in 2nd posts
 _Thank you for reading my post._ (Keep Scrolling)*.
 
 
-### Sources:[Web](https://www.sciencedirect.com/topics/neuroscience/image-processing) , [Wiki](https://en.wikipedia.org/wiki/Digital_image_processing).
+# Sources:[Web](https://www.sciencedirect.com/topics/neuroscience/image-processing) , [Wiki](https://en.wikipedia.org/wiki/Digital_image_processing).
