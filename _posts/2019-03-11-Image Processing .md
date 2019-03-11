@@ -31,4 +31,4 @@ The remaining tasks will be in 2nd posts
 _Thank you for reading my post._ (Keep Scrolling)*.
 
 
-# Sources:[Web](https://www.sciencedirect.com/topics/neuroscience/image-processing) , [Wiki](https://en.wikipedia.org/wiki/Digital_image_processing).
+### Sources:[Web](https://www.sciencedirect.com/topics/neuroscience/image-processing) , [Wiki](https://en.wikipedia.org/wiki/Digital_image_processing).
