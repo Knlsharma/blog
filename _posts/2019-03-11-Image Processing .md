@@ -1,3 +1,6 @@
+---
+published: false
+---
 _This is the 1st post of blog post series ‘Image Processing’._
 
 # Introduction to Digital Image Processing
