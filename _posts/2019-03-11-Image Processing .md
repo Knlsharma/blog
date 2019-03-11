@@ -14,6 +14,7 @@ Digital Image Processing means processing digital image by means of a digital co
 <sub>A Processed Image (pixabay)</sub>
 </center>
 
+<br> 
 ## Types of an image
 
 **1. Binary Image** as its name suggests, contain only two pixel elements **i.e 0 & 1,where 0 refers to black and 1 refers to white.** This image is also known as_**Monochrome.**_
