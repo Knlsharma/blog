@@ -8,7 +8,7 @@ _This is the 1st post of blog post series ‘Cloud Computing’._
 <sub>One cloud (pixabay)</sub>
 </center>
 <br>
-# Overview Of Cloud Computing
+# O Of Cloud Computing
 
 > **Technical def:** Cloud computing is a **_virtualization based technology_** that reduces the _cost of IT_ infrastructure. It provides a **solution of IT infrastructure in low cost**.
 
@@ -37,10 +37,10 @@ In that server room, there should be a database server, mail server, networking,
 * Services in pay-per-use mode
 
 ## Some Advantage and Disadvantage of cloud
-<br>
 <center>
 <img src="{{site.baseurl}}/assets/images/difference.jpg" alt="Image">
 </center>
+<br>
 _2nd post will be out soon._
 
 _Thank you for reading my post._ Keep Scrolling.
