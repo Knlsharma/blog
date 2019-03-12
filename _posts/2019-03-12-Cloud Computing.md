@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 _This is the 1st post of blog post series ‘Cloud Computing’._
 <br>
