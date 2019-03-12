@@ -10,7 +10,7 @@ _This is the 1st post of blog post series ‘Cloud Computing’._
 <br>
 # Overview Of Cloud Computing
 
-> **Technical def:** Cloud computing is a _virtualization based technology_ that reduces the _cost of IT_ infrastructure. It provides a solution of IT infrastructure in low cost.
+> **Technical def:** Cloud computing is a **_virtualization based technology_** that reduces the _cost of IT_ infrastructure. It provides a **solution of IT infrastructure in low cost**.
 
 ## Why Cloud Computing ?
 
@@ -20,21 +20,16 @@ In that server room, there should be a database server, mail server, networking,
 
 ## Characteristics of Cloud Computing:
 
-..* Agility
+* Agility                                           * Device and Location Independence
 
-..* High availability and reliability
+* High availability and reliability                 * Maintenance
 
-..* High Scalability
+* High Scalability                                  * Low Cost
 
-..* Multi-Sharing
+* Multi-Sharing                                     * Services in pay-per-use mode
 
-..* Device and Location Independence
-
-..* Maintenance
-
-..* Low Cost
-
-..* Services in pay-per-use mode
+<br>
+## Some Advantage and Disadvantage of cloud
 
 <center>
 <img src="{{site.baseurl}}/assets/images/difference.jpg" alt="Image">
