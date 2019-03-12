@@ -20,23 +20,28 @@ In that server room, there should be a database server, mail server, networking,
 
 ## Characteristics of Cloud Computing:
 
-* Agility                                           * Device and Location Independence
+* Agility 
 
-* High availability and reliability                 * Maintenance
+* Device and Location Independence
 
-* High Scalability                                  * Low Cost
+* High availability and reliability   
 
-* Multi-Sharing                                     * Services in pay-per-use mode
+* Maintenance
+
+* High Scalability 
+
+* Low Cost
+
+* Multi-Sharing
+
+* Services in pay-per-use mode
 
 <br>
 ## Some Advantage and Disadvantage of cloud
-
+<br>
 <center>
 <img src="{{site.baseurl}}/assets/images/difference.jpg" alt="Image">
-<sub>Some Advantage and Disadvantage
-  <br> of cloud</sub>
 </center>
-<br>
 _2nd post will be out soon._
 
 _Thank you for reading my post._ Keep Scrolling.
