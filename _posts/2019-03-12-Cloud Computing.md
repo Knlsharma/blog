@@ -36,7 +36,6 @@ In that server room, there should be a database server, mail server, networking,
 
 * Services in pay-per-use mode
 
-<br>
 ## Some Advantage and Disadvantage of cloud
 <br>
 <center>
