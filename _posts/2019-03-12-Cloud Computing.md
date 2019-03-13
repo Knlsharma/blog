@@ -41,6 +41,6 @@ In that server room, there should be a database server, mail server, networking,
 <img src="{{site.baseurl}}/assets/images/difference.jpg" alt="Image">
 </center>
 <br>
-_2nd post will be out soon._
+_[2nd post out --->](https://knlsharma.github.io/blog/2019/03/13/Cloud-Computing/)._
 
 _Thank you for reading my post._ Keep Scrolling.
