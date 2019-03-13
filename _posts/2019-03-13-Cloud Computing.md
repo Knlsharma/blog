@@ -38,4 +38,6 @@ There are three different ways to deploy cloud computing resources. These are pu
 
 A combination of both **public and private clouds** leads to what we call **hybrid cloud**. The advantage here is that a hybrid cloud allows data and applications to be shared between them. By allowing data and applications to move between private and public clouds, customers enjoy greater flexibility and more deployment options.
 
+**Sources:** [Wiki](https://en.wikipedia.org/wiki/Cloud_computing).
+
 _Thank you for reading my post. Keep Scrolling.._
