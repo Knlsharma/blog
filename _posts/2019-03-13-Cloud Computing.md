@@ -21,7 +21,6 @@ _This is the 2nd and last post of blog post series ‘Cloud Computing’._
 <br>
 <center>
 <img src="{{site.baseurl}}/assets/images/types.jpg" alt="Image">
-<sub>src: google image</sub>
 </center>
 **Infrastructure-as-a-service (IaaS)**:The most basic category of cloud computing services. With IaaS, you rent IT infrastructure — servers and virtual machines (VMs), storage, networks, operating systems — from a cloud provider on a pay-as-you-go basis.
 
