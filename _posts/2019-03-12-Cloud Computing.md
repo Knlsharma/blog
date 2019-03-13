@@ -8,7 +8,7 @@ _This is the 1st post of blog post series ‘Cloud Computing’._
 <sub>One cloud (pixabay)</sub>
 </center>
 <br>
-# O Of Cloud Computing
+# Overview Of Cloud Computing
 
 > **Technical def:** Cloud computing is a **_virtualization based technology_** that reduces the _cost of IT_ infrastructure. It provides a **solution of IT infrastructure in low cost**.
 
