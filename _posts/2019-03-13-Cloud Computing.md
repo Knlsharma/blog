@@ -23,7 +23,6 @@ _This is the 2nd and last post of blog post series ‘Cloud Computing’._
 <img src="{{site.baseurl}}/assets/images/types.jpg" alt="Image">
 <sub>src: google image</sub>
 </center>
-<br>
 **Infrastructure-as-a-service (IaaS)**:The most basic category of cloud computing services. With IaaS, you rent IT infrastructure — servers and virtual machines (VMs), storage, networks, operating systems — from a cloud provider on a pay-as-you-go basis.
 
 **Platform as a service (PaaS)**: Platform-as-a-service (PaaS) refers to cloud computing services that supply an on-demand environment for developing, testing, delivering and managing software applications. PaaS is designed to make it easier for developers to quickly create web or mobile apps, without worrying about setting up or managing the underlying infrastructure of servers, storage, network and databases needed for development.
