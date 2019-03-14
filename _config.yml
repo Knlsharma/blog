@@ -31,3 +31,8 @@ version:             3.8.5
 
 gems: 
       - jekyll-sitemap
+      
+reading_time:
+  second_plural: "sec"    # default: seconds
+  minute_singular: "min"  # default: minute
+  minute_plural: "min"    # default: minutes
