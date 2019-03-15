@@ -42,9 +42,9 @@ _Computer Vision_ can be defined as a discipline that explains how to _reconstru
 
 _There is a well documented source about its implementation where you can read details link is in references._
 
-**Code Sources :** [Github](https://github.com/Knlsharma/Image-Processing-Tasks)._
+**Code Sources :** [Github](https://github.com/Knlsharma/Image-Processing-Tasks).
 
-**References :** [Wiki](https://en.wikipedia.org/wiki/OpenCV) , [Tutorial point](https://www.tutorialspoint.com/opencv/opencv_overview.htm)
+**References :** [Wiki](https://en.wikipedia.org/wiki/OpenCV) , [Tutorial point](https://www.tutorialspoint.com/opencv/opencv_overview.htm) .
 
 
 _Thank you for reading my post._ Keep Scrolling.
