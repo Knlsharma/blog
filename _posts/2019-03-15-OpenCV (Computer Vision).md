@@ -4,7 +4,7 @@ published: true
 # Unbeatable OpenCV 
 
 <center>
-<img src="{{site.baseurl}}/assets/images/cv.ppg" alt="Image">
+<img src="{{site.baseurl}}/assets/images/cv.png" alt="Image">
 </center>
 
 Today every company handle a lot of image data and also perform various tasks on the image as per requirements such as extraction, analysis etc. So there is one name which is OpenCV which is a cross-platform library using which we can develop real-time computer vision applications. It mainly focuses on image processing, video capture and analysis including features like face detection and object detection.
