@@ -12,14 +12,8 @@ published: true
 I wanted to welcome you and let you know I appreciate you spending time here at the blog very much.  Everyone is so busy and life moves pretty fast,  so I really do appreciate you taking time out of your busy day to check out my blog!..The **Techblog** aims for sharing knowledge new technology and programming related stuff especially for programmers, developers to develop and to contribute more. As a reader, it helps you to keep updated in this technological era.You can also find me on [GitHub](https://github.com/Knlsharma "Kunal Sharma"), [Quora](https://www.quora.com/profile/Kunal-Sharma-854 "Kunal Sharma") and [Linkedin](https://in.linkedin.com/in/knlsharma).
 
 
+<br>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<centre>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="knlsharma"><a class="LI-simple-link" href='https://in.linkedin.com/in/knlsharma?trk=profile-badge'>Kunal Sharma</a></div>
-</centre>
-
-<div class="github-card" data-github="Knlsharma" data-width="400" data-height="150" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 <!--
 ![knl]({{site.baseurl}}/kunal blog.jpg)
@@ -32,6 +26,8 @@ I've my own website [Kunal Sharma](https://knlsharma.github.io/ "Kunal Sharma").
 -->
 <br>
 Thanks for reading!
+<div class="github-card" data-github="Knlsharma" data-width="400" data-height="150" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 ***
     
