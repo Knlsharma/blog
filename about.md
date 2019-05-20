@@ -17,6 +17,10 @@ I wanted to welcome you and let you know I appreciate you spending time here at 
 <centre>
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="knlsharma"><a class="LI-simple-link" href='https://in.linkedin.com/in/knlsharma?trk=profile-badge'>Kunal Sharma</a></div>
 </centre>
+
+<div class="github-card" data-github="Knlsharma" data-width="400" data-height="150" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 <!--
 ![knl]({{site.baseurl}}/kunal blog.jpg)
 
