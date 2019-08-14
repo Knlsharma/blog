@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 *This is the 3nd post of blog post series ‘Deep Learning and Machine Learning’.*
 
