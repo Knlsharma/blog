@@ -30,7 +30,7 @@ An important thing to understand is that higher-level features combine lower-lev
 <img src="{{site.baseurl}}/assets/images/table.png" alt="">
 <sub>site : https://pechyonkin.me/images/201711-capsules-2/capsules-table.png</sub>
 </center>
-
+<br>
 _**4th post** will be out soon.._ *(Keep Scrolling)*.
 
 _Thank you for reading my post._
