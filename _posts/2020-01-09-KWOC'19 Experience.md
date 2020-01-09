@@ -3,7 +3,7 @@ published: true
 ---
 *This is the post about my experience of KWOC'19. Don't worry it will Not be a lengthy.*
 
-## About KWOC – <u>KHARAGPUR WINTER OF CODE</u> Program
+## About KWOC – <u>[KHARAGPUR WINTER OF CODE](https://kwoc.kossiitkgp.org/)</u> Program
 
 A one month long program for introduction to open source community and a providing
 preface to budding developers to **Google Summer of Code’ 2020**. Organised by students at
@@ -14,7 +14,7 @@ preface to budding developers to **Google Summer of Code’ 2020**. Organised by
 <sub>site : https://kwoc.kossiitkgp.org</sub>
 </center>
 
-# Projects and Experience
+## Projects and Experience
 
 The program includes various projects from easy levels to a high level. Mentor's are also available that guide and also helps you to come out form problems states. **Analyzing the task and break it down into small tasks that help in identifying what you have to focus on or not.**
 
