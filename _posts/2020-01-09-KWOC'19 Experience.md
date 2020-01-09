@@ -35,5 +35,3 @@ _Signing off_
 _[Kunal Sharma](https://knlsharma.github.io/)_
 
 _Thank you for reading my post._
-
-
